@@ -1,16 +1,41 @@
-## Hi there 👋
+### Hi 👋 I'm Yash Jambhulkar
+<img align="right" alt="Coding" width="320" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-<!--
-**Yash9049/Yash9049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 If you have additional topics to discuss, feel free to reach out to me at yashjambhulkar0@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yash-jambhulkar-317528316/)to chat about anything else that's on your mind.
 
-Here are some ideas to get you started:
+**Languages and Tools:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+<h5><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Github Stats</h6>
+
+  <br/>
+    <a href="https://github.com/Yash9049/github-readme-stats"><img alt="Yash Jambhulkar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yash9049&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/yash3567/github-readme-stats"><img alt="Yash Jambhulkar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash9049&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <br/>
+ <a href="https://github.com/Yash9049/github-readme-stats">
+    <img alt="Yash Jambhulkar GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yash3567&theme=react&hide_border=true&background=0D1117" />
+</a>
+
+</a>
+
+  <br/>
+
+
+
+<br/>
+<br/>
+
+
